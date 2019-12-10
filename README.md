@@ -2,15 +2,17 @@
 
 A python game modelled after a popular mobile game 'Doodle Jump'. 
 
-![1CBBA912-8092-41AF-B88B-5A5310002643](https://user-images.githubusercontent.com/31861043/70078627-ec60de00-15fa-11ea-8a40-66494b320b71.jpeg)
-![4B03537F-9BFB-4125-A724-D25AA2EE6523](https://user-images.githubusercontent.com/31861043/70078628-ecf97480-15fa-11ea-89b5-3b656a2e35c2.jpeg)
+![F9E37D4B-E365-4691-81C3-C8D195A89D6B](https://user-images.githubusercontent.com/31861043/70570964-cefcb880-1b94-11ea-8d4f-80a3e1cb4823.jpeg)
+![215DF090-FEB8-42EE-8E7A-09997517D39F](https://user-images.githubusercontent.com/31861043/70570966-cf954f00-1b94-11ea-8bac-e853c5722d08.jpeg)
+![03C24E1A-291C-44D6-B53B-7DD4B8208E60](https://user-images.githubusercontent.com/31861043/70570967-cf954f00-1b94-11ea-93d6-c4272616da4e.jpeg)
 
 
 ##### Features:
 * Realistic jumping mechanics 
 * Score counter
-* Laser that can be utilised in later versions of the game
+* Laser
 * Increasing difficulty with progression
+* Enemy encounters
 
 ##### Controls:
 * Motion controlled by device accelerometer
@@ -21,4 +23,4 @@ A python game modelled after a popular mobile game 'Doodle Jump'.
 
 ##### Future improvements:
 * Game mechanics could be improved to make the game run more smoothly
-* Additional features can be added. Examples include: changing background, enemy encounters, additonal obstacles and power-ups
+* Additional features can be added. Examples include: changing background, additonal obstacles and power-ups
